@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Erik Alonso
 
-I like to:
+I like to: Code, game, rave, love
 
-I'm learning:
+I'm learning: full stack development
 
 ```
 
